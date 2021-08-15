@@ -1,0 +1,30 @@
+﻿  Device.cpp
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(516,20): warning C4305: “=”: 从“double”到“float”截断
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(517,19): warning C4305: “=”: 从“double”到“float”截断
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(521,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(524,20): warning C4305: “=”: 从“double”到“float”截断
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(525,20): warning C4305: “=”: 从“double”到“float”截断
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(526,20): warning C4305: “=”: 从“double”到“float”截断
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(529,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(537,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(538,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(539,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(558,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(559,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(560,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(562,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(562,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(563,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(563,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(564,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(564,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(579,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(579,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(580,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(580,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(581,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\project\Engine\SoftRendererLearning\SoftRenderer\Device.cpp(581,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  SoftRenderer.cpp
+G:\project\Engine\SoftRendererLearning\SoftRenderer\SoftRenderer.cpp(37,25): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  SoftRenderer.vcxproj -> G:\project\Engine\SoftRendererLearning\SoftRenderer\x64\Debug\SoftRenderer.exe
